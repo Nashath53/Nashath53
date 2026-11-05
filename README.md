@@ -40,7 +40,6 @@
 ###
 
 <br clear="both">
-###
 
 - 🔭 I’m currently working on [Ella-Pass](https://nashath53.github.io/Ella-pass-tourism-platform/)
 
@@ -51,10 +50,6 @@
 - 👨‍💻 All of my projects are available at [Nashath.dev-portfolio](https://nashath-portfolio.pages.dev/)
 
 - 📫 How to reach me **nashath.dev@gmail.com**
-
-<h3 align="left">Achievements</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/shazdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shazdev" height="30" width="40" /></a>
 
 ###
 
@@ -112,6 +107,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+
+<h3 align="left"> 🏆 Achievements</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/shazdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shazdev" height="30" width="40" /></a>
+
 </div>
 
 ###
