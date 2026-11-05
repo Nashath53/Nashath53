@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashath53&label=Profile%20views&color=0e75b6&style=flat" alt="nashath53" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nashath53" alt="nashath53" /></a> </p>
+<p align="left"> <a href="https://github.com/jagratadeb"><img src="https://github-trophy-jagratadeb.vercel.app/?username=nashath53" alt="nashath53" /></a> </p>
 
 - 🔭 I’m currently working on [Ella-Pass](https://nashath53.github.io/Ella-pass-tourism-platform/)
 
