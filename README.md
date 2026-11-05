@@ -1,43 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Nashath</h1>
+<h3 align="center">A passionate frontend developer from SriLanka</h3>
 
-## I'm Mohammad Nashath
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nashath53&label=Profile%20views&color=0e75b6&style=flat" alt="nashath53" /> </p>
 
-Junior Frontend Developer | BIT Undergraduate
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nashath53" alt="nashath53" /></a> </p>
 
-I'm a frontend developer focused on building responsive, accessible and user-friendly web applications.
+- 🔭 I’m currently working on [Ella-Pass](https://nashath53.github.io/Ella-pass-tourism-platform/)
 
-Currently developing my skills in modern web development and building practical projects.
+- 🌱 I’m currently learning **React.js,Node.js,Advanced JavaScript,REST API and Git and collaborative developments**
 
-Technical Skills
+- 🤝 I’m looking for help with [Ella-Pass](https://nashath53.github.io/Ella-pass-tourism-platform/)
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap
-- React.js (Foundational)
-- Git & GitHub
-- Node.js (foundational)
-- on-page SEO
+- 👨‍💻 All of my projects are available at [https://nashath-portfolio.pages.dev/](https://nashath-portfolio.pages.dev/)
 
-Featured Projects
+- 📫 How to reach me **nashath.dev@gmail.com**
 
-- EllaPass: Tourism discovery and local services platform.
-- Developer Portfolio: Responsive personal portfolio.
-- Tutor Management System: Web-based management application.
-- 2D Mini Game: Browser-based JavaScript game.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/@shazdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shazdev" height="30" width="40" /></a>
+</p>
 
-Currently Learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- Advanced JavaScript
-- React.js
-- Node.js
-- REST APIs
-- Git and collaborative development
-- Frontend testing
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nashath53&show_icons=true&locale=en&layout=compact" alt="nashath53" /></p>
 
-Connect With Me
-
-- Portfolio: https://nashath-portfolio.pages.dev/
-- LinkedIn: https://www.linkedin.com/in/mohammad-nashath-b92956448
-- GitHub: https://github.com/Nashath53
-- Email: nashath.dev@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashath53&show_icons=true&locale=en" alt="nashath53" /></p>
