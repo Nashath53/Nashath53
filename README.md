@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nashath</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
+<h3 align="center">A passionate frontend developer | UnderGraduate BIT (UOM)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashath53&label=Profile%20views&color=0e75b6&style=flat" alt="nashath53" /> </p>
 
