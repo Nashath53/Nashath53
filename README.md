@@ -3,22 +3,19 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://example.com/username" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-nashath" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://example.com/username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo"  />
-  </a>
-  <a href="https://example.com/username" target="_blank">
+  <a href="https://discord.com/users/spxdev_77" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
   <a href="mailto:nashath.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
-  <a href="https://example.com/username" target="_blank">
+  <a href="https://t.me/spxrrow53" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram logo"  />
   </a>
-  <a href="wa.me:0706977441" target="_blank">
+  <a href="https://wa.me/94706977441" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
 </div>
