@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**Nashath53/Nashath53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Mohammad Nashath
 
-Here are some ideas to get you started:
+Junior Frontend Developer | BIT Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a frontend developer focused on building responsive, accessible and user-friendly web applications.
+
+Currently developing my skills in modern web development and building practical projects.
+
+Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- React.js (Foundational)
+- Git & GitHub
+- Node.js (foundational)
+- on-page SEO
+
+Featured Projects
+
+- EllaPass: Tourism discovery and local services platform.
+- Developer Portfolio: Responsive personal portfolio.
+- Tutor Management System: Web-based management application.
+- 2D Mini Game: Browser-based JavaScript game.
+
+Currently Learning
+
+- Advanced JavaScript
+- React.js
+- Node.js
+- REST APIs
+- Git and collaborative development
+- Frontend testing
+
+Connect With Me
+
+- Portfolio: https://nashath-portfolio.pages.dev/
+- LinkedIn: https://www.linkedin.com/in/mohammad-nashath-b92956448
+- GitHub: https://github.com/Nashath53
+- Email: nashath.dev@gmail.com
